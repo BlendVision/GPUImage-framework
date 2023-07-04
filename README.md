@@ -1,1 +1,1 @@
-# GPUImage-framework
+# GPUImage Framework
